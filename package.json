@@ -1,0 +1,24 @@
+{
+  "name": "ng-to-ng2",
+  "version": "1.0.0",
+  "description": "script convert angular1 templates to angular2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/griga/ng-to-ng2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/griga/ng-to-ng2/issues"
+  },
+  "homepage": "https://github.com/griga/ng-to-ng2#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "lodash": "^4.13.1"
+  }
+}
